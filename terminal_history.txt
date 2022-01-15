@@ -1,0 +1,50 @@
+  337  git add .
+  338  git commit -m "added subtitle and some code"
+  339  git push
+  340  git pull
+  341  cat README.md
+  342  touch aa.py
+  343  ls
+  344  cd desktop
+  345  cd fintech-workspace
+  346  ls
+  347  cd github_uploads
+  348  ls
+  349  conda activate dev
+  350  python loan_analyzer.py
+  351  conda deactivate
+  352  git clone git@github.com:ORE93/Module-1-Challenge.git
+  353  pwd
+  354  ls
+  355  cd module-1-challenge
+  356  git add .
+  357  git commit -m "Added comments for clarity."
+  358  git push
+  359  cd desktop
+  360  git clone git@github.com:ORE93/Module-1-Challenge.git
+  361  cd module-1-challenge
+  362  git add .
+  363  git commit -m "Added missing print functions."
+  364  git push
+  365  cd desktop/fintech-workspace/module2c
+  366  git clone git@github.com:ORE93/Module-2-Challenge.git
+  367  git add .
+  368  cd loan_qualifier_app
+  369  git add .
+  370  ls -al
+  371  cd ..
+  372  git add .
+  373  ls
+  374  cd module-2-challenge
+  375  git add .
+  376  git commit -m "Added my finalized code."
+  377  git add .
+  378  git commit -m "Added my finalized code."
+  379  git push
+  380  git add .
+  381  git commit -m "Added data files."
+  382  git push
+  383  git pull
+  384  history 50 > terminal_history.txt
+  385  cd desktop
+  386  history 50 > terminal_history.txt
