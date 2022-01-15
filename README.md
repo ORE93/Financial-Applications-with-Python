@@ -1,5 +1,7 @@
 # Module 2 Challenge
 
+![loanapp](https://www.merchantmaverick.com/wp-content/uploads/2018/07/bigstock-138491630.jpg)
+
 This is the 2nd Module Challenge from my SMU Fintech Bootcamp. It is a loan qualifier application that will recieve a users inputs and then let them know if they qualify for a loan.
 
 ---
@@ -16,4 +18,4 @@ To use this application you should run the python file "app.py" in your terminal
 
 ---
 
-![loanapp](https://www.merchantmaverick.com/wp-content/uploads/2018/07/bigstock-138491630.jpg)
+
