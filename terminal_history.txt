@@ -1,16 +1,3 @@
-  337  git add .
-  338  git commit -m "added subtitle and some code"
-  339  git push
-  340  git pull
-  341  cat README.md
-  342  touch aa.py
-  343  ls
-  344  cd desktop
-  345  cd fintech-workspace
-  346  ls
-  347  cd github_uploads
-  348  ls
-  349  conda activate dev
   350  python loan_analyzer.py
   351  conda deactivate
   352  git clone git@github.com:ORE93/Module-1-Challenge.git
@@ -48,3 +35,16 @@
   384  history 50 > terminal_history.txt
   385  cd desktop
   386  history 50 > terminal_history.txt
+  387  cd desktop
+  388  cd Fintech-Workspace/
+  389  cd module2c
+  390  cd Module-2-Challenge/
+  391  git add .
+  392  git commit -m "Added some notes to my python code."
+  393  git push
+  394  git pull
+  395  git add .
+  396  git commit -m "Added some notes to my python code."
+  397  git push
+  398  cd desktop
+  399  history 50 > terminal_history.txt
