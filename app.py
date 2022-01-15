@@ -103,7 +103,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
     return bank_data_filtered
 
 
-def save_qualifying_loans(qualifying_loans):
+def save_qualifying_loans(qualifying_loans):                                        #This function will allow us to save any loans we qualify for, but if there are none it will tell us and exit the app.
     """Saves the qualifying loans to a CSV file.
 
     Args:
@@ -121,7 +121,7 @@ def save_qualifying_loans(qualifying_loans):
         ).ask()
         save_csv(Path(csvpath), qualifying_loans)
 
-def save_csv(csvpath, data, header=None):
+def save_csv(csvpath, data, header=None):                                           # This function will save the loans we qualfied for in a csv file if we choose to do so.
     with open(csvpath, 'w', newline="") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
         for data_entry in data:
